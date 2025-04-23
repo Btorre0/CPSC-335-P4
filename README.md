@@ -9,7 +9,7 @@ Given a fixed amount of purchasing power or financial resources, the problem see
 
 This problem can be mathematically represented as:
 
-[![alt text](<Screenshot 2025-04-21 at 5.50.18 PM.png>)]
+![alt text](<Screenshot 2025-04-21 at 5.50.18 PM.png>)
 
 Assume that you are given a set of stocks as an array of arrays. Each entry in the subarray represents a company, with the number of stocks available and the cumulative value of all available stocks. You are also given a specific sum of money to invest. Buying a fraction of any item is not allowed. Your task is to design an algorithm to determine the maximum number of stocks you are able to purchase. Your solution should give the indices of the array(stocks) to be selected. The cumulative value of all selected stocks must be equal or less than the given sum. The problem is similar to a well-known algorithmic optimization problem.
 
